@@ -6,7 +6,7 @@
 
 * 🎓 Currently studying Software Engineering / Computer Programming
 * ☕ Focused on **Java** (**Spring Boot**) and **Angular** development
-* 🐍 Working with **Python** (**FastAPI**) and Databases (**MySQL**)
+* 🐍 Working with **Python** (**FastAPI**) and Databases (**MySQL**, **MongoDB**)
 * 🎨 Passionate about UI Design, typography, and clean user interfaces
 
 ---
@@ -21,7 +21,7 @@
 ## 🧠 Back-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,spring,mysql" alt="Back-End Icons" />
+  <img src="https://skillicons.dev/icons?i=py,java,spring,nodejs,mysql,mongodb" alt="Back-End Icons" />
 </p>
 
 ---
@@ -34,6 +34,15 @@
 
 ---
 
+## 📐 Architecture & Concepts
+
+* 🧱 **OOP (Object-Oriented Programming):** Abstraction, Encapsulation, Inheritance & Polymorphism
+* 📊 **Data Structures:** Custom implementations of Stacks, Queues & Linked Lists
+* 🌐 **RESTful APIs:** Endpoint design, HTTP status codes & JSON payload structure
+* 🎨 **UI/UX Design:** Color theory, typography hierarchy & design systems (Figma)
+
+---
+
 ## 🛠️ Platforms, Tools & Testing
 
 <p>
@@ -42,9 +51,8 @@
 
 ---
 
-## 📊 GitHub Stats
+##
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsdEvie&show_icons=true&theme=dark" alt="Hevellyn's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsdEvie&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/ItsdEvie/ItsdEvie/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
